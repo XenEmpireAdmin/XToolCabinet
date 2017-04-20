@@ -35,7 +35,7 @@
     <staticSunShadowHeight>0.35</staticSunShadowHeight>
     <fillPercent>0.5</fillPercent>
     <statBases>
-      <MaxHitPoints>250</MaxHitPoints>
+      <MaxHitPoints>350</MaxHitPoints>
       <WorkToBuild>1800</WorkToBuild>
       <Mass>40</Mass>
       <Flammability>0.1</Flammability>
