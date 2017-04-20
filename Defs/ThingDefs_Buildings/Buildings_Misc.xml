@@ -43,7 +43,7 @@
     <description>Increases work speed. Needs to be placed near workbench. One workbench can be simultaneously linked to only two tools cabinets.</description>
     <size>(2,1)</size>
     <costList>
-      <Steel>250</Steel>
+      <Steel>350</Steel>
     </costList>
     <designationCategory>Misc</designationCategory>
     <minifiedDef>MinifiedFurniture</minifiedDef>
